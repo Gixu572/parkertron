@@ -1,0 +1,8 @@
+config:
+  token: OTcxMDE0ODI0NDc1NjI3NTkw.YnEWBg.he7PKSPkJzj2S3qAWDuevzJCEkU
+  game: Supporting Humans
+  dm_response:
+    reaction:
+    - "Dont DM Me"
+    response:
+    - ""
